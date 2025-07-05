@@ -1,6 +1,6 @@
 # 【 ChatGPT 中文版 】国内免费使用（支持GPT-4，GPT-4o和o1）【7月最新更新】
 
-> 更新：2025/07/06   
+> 更新：2025/07/06    
 > 作者：chatgpt-site-cn 
 
 **畅享国内免费体验的 ChatGPT 中文版！无需翻墙，支持 ChatGPT-4，可无限使用 GPT-4o 和 o1-preview。**
@@ -9,7 +9,7 @@
 
 ## 什么是 ChatGPT 中文版？
 
-[**ChatGPT 中文版**](https://talk.lanjing.pro) 是基于 OpenAI 开发的 ChatGPT 模型的中文优化版本，专为国内用户提供更方便、更流畅的对话体验，无需翻墙即可使用。<br />
+[**ChatGPT 中文版**](https://gpt.lanjing.pro) 是基于 OpenAI 开发的 ChatGPT 模型的中文优化版本，专为国内用户提供更方便、更流畅的对话体验，无需翻墙即可使用。<br />
 <br />
 与官方 ChatGPT 相比，ChatGPT 中文版具有以下优势：<br />
 <br />
@@ -21,7 +21,7 @@
 
 ## 推荐的 ChatGPT 中文版
 
-- [chat.yixiaai.com](https://talk.lanjing.pro/) - **ChatGPT 中文版**，支持 **GPT-4、4o 及 o1**，并提供 AI 绘画功能，扫码即可使用。
+- [chat.yixiaai.com](https://gpt.lanjing.pro/) - **ChatGPT 中文版**，支持 **GPT-4、4o 及 o1**，并提供 AI 绘画功能，扫码即可使用。
 - [chat.lify.vip](https://xsimplechat.com/) - **ChatGPT 中文版**，支持 **GPT-4、4o 及 o1**，提供 AI 文件、**AI PPT**、AI 助手、AI 插件及思维导图功能。
 - [guide1.lanjing.ai](https://chat.lanjingai.org/) - **ChatGPT 中文版**，支持 GPT-4、4o，提供 **AI 绘画（Midjourney 和 Dall·E）** 功能。
 - [ai.lansejingyu.com](https://ai.lansejingyu.com/) - ChatGPT-4 中文版，支持 **GPT-4、4o**，简单便捷。
